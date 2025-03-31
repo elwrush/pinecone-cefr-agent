@@ -1,0 +1,6 @@
+    flask
+    pinecone-client
+    sentence-transformers
+    python-dotenv
+    gunicorn
+    ```

@@ -1,0 +1,800 @@
+[
+    {
+        "filename": "C1_Reading_01.txt",
+        "cefr_level": "C1",
+        "topic": "book reviews",
+        "keywords": [
+            "novel",
+            "radio",
+            "author",
+            "protagonist",
+            "book"
+        ]
+    },
+    {
+        "filename": "C1_Reading_02.txt",
+        "cefr_level": "C1",
+        "topic": "crafts",
+        "keywords": [
+            "weathervanes",
+            "craft",
+            "design",
+            "customer",
+            "hand-cutting"
+        ]
+    },
+    {
+        "filename": "C1_Reading_03.txt",
+        "cefr_level": "C1",
+        "topic": "environment",
+        "keywords": [
+            "trees",
+            "planting",
+            "New Zealand",
+            "land",
+            "winter"
+        ]
+    },
+    {
+        "filename": "C1_Reading_04.txt",
+        "cefr_level": "C1",
+        "topic": "travel",
+        "keywords": [
+            "adventure",
+            "travel",
+            "tours",
+            "treks",
+            "safaris"
+        ]
+    },
+    {
+        "filename": "C1_Reading_05.txt",
+        "cefr_level": "C1",
+        "topic": "graphology",
+        "keywords": [
+            "handwriting",
+            "analysis",
+            "graphology",
+            "character",
+            "science"
+        ]
+    },
+     {
+        "filename": "C1_Reading_06.txt",
+        "cefr_level": "C1",
+        "topic": "music",
+        "keywords": [
+            "trumpet",
+            "musician",
+            "composer",
+            "music",
+            "career"
+        ]
+    },
+    {
+        "filename": "C1_Reading_07.txt",
+        "cefr_level": "C1",
+        "topic": "advertising",
+        "keywords": [
+            "advertising",
+            "brands",
+            "media",
+            "market",
+            "commercials"
+        ]
+    },
+    {
+        "filename": "C1_Reading_08.txt",
+        "cefr_level": "C1",
+        "topic": "food",
+        "keywords": [
+            "apples",
+            "history",
+            "fruit",
+            "varieties",
+            "cultivation"
+        ]
+    },
+    {
+        "filename": "C1_Reading_09.txt",
+        "cefr_level": "C1",
+        "topic": "animals",
+        "keywords": [
+            "badgers",
+            "cubs",
+            "animals",
+            "farm",
+            "wildlife"
+        ]
+    },
+    {
+        "filename": "C1_Reading_10.txt",
+        "cefr_level": "C1",
+        "topic": "crafts",
+        "keywords": [
+            "blacksmiths",
+            "ironwork",
+            "craft",
+            "metal",
+            "design"
+        ]
+    },
+        {
+        "filename": "C1_Reading_11.txt",
+        "cefr_level": "C1",
+        "topic": "retail",
+        "keywords": [
+            "shopping",
+            "stores",
+            "products",
+            "marketing",
+            "pricing"
+        ]
+    },
+    {
+        "filename": "C1_Reading_12.txt",
+        "cefr_level": "C1",
+        "topic": "family",
+        "keywords": [
+            "fatherhood",
+            "children",
+            "family",
+            "parenting",
+            "relationships"
+        ]
+    },
+{
+        "filename": "C1_Reading_13.txt",
+        "cefr_level": "C1",
+        "topic": "lifestyle",
+        "keywords": [
+            "smoking",
+            "habit",
+            "health",
+            "nicotine",
+            "counsellor"
+        ]
+    },
+    {
+        "filename": "C1_Reading_14.txt",
+        "cefr_level": "C1",
+        "topic": "animals",
+        "keywords": [
+            "aye-aye",
+            "primate",
+            "insects",
+            "woodpecker",
+            "Madagascar"
+        ]
+    },
+{
+        "filename": "C1_Reading_15.txt",
+        "cefr_level": "C1",
+        "topic": "theatre",
+        "keywords": [
+            "theatre",
+            "play",
+            "performance",
+            "director",
+            "review"
+        ]
+    },
+    {
+        "filename": "C1_Reading_16.txt",
+        "cefr_level": "C1",
+        "topic": "hotels",
+        "keywords": [
+            "hotel",
+            "travel",
+            "accommodation",
+            "holiday",
+            "location"
+        ]
+    },
+    {
+        "filename": "C1_Reading_17.txt",
+        "cefr_level": "C1",
+        "topic": "technology",
+        "keywords": [
+            "technology",
+            "gadgets",
+            "appliances",
+            "brainwashing",
+            "automation"
+        ]
+    },
+    {
+        "filename": "C1_Reading_18.txt",
+        "cefr_level": "C1",
+        "topic": "biography",
+        "keywords": [
+            "autobiography",
+            "life story",
+            "family",
+            "past",
+            "roots"
+        ]
+    },
+     {
+        "filename": "C1_Reading_19.txt",
+        "cefr_level": "C1",
+        "topic": "careers",
+        "keywords": [
+            "career",
+            "job",
+            "profession",
+            "work",
+            "day"
+        ]
+    },
+        {
+        "filename": "C1_Reading_20.txt",
+        "cefr_level": "C1",
+        "topic": "book reviews",
+        "keywords": [
+            "book",
+            "novel",
+            "story",
+            "read",
+            "author"
+        ]
+    },
+     {
+        "filename": "C1_Reading_21.txt",
+        "cefr_level": "C1",
+        "topic": "science",
+        "keywords": [
+            "art",
+            "animals",
+            "human",
+            "genes",
+            "creative"
+        ]
+    },
+   {
+        "filename": "C1_Reading_22.txt",
+        "cefr_level": "C1",
+        "topic": "sports",
+        "keywords": [
+            "chess",
+            "game",
+            "player",
+            "Fischer",
+            "Spassky"
+        ]
+    },
+        {
+        "filename": "C1_Reading_23.txt",
+        "cefr_level": "C1",
+        "topic": "museums",
+        "keywords": [
+            "museum",
+            "collection",
+            "exhibition",
+            "gallery",
+            "display"
+        ]
+    },
+    {
+        "filename": "C1_Reading_24.txt",
+        "cefr_level": "C1",
+        "topic": "sports",
+        "keywords": [
+            "sport",
+            "women",
+            "competition",
+            "training",
+            "prejudice"
+        ]
+    },
+   {
+        "filename": "C1_Reading_25.txt",
+        "cefr_level": "C1",
+        "topic": "adventure",
+        "keywords": [
+            "climbing",
+            "sailing",
+            "adventure",
+            "expedition",
+            "Greenland"
+        ]
+    },
+{
+        "filename": "C1_Reading_26.txt",
+        "cefr_level": "C1",
+        "topic": "animals",
+        "keywords": [
+            "peacocks",
+            "birds",
+            "plumage",
+            "Darwin",
+            "evolution"
+        ]
+    },
+    {
+        "filename": "C1_Reading_27.txt",
+        "cefr_level": "C1",
+        "topic": "health",
+        "keywords": [
+            "acupuncture",
+            "medicine",
+            "pain",
+            "treatment",
+            "therapy"
+        ]
+    },
+    {
+        "filename": "C1_Reading_28.txt",
+        "cefr_level": "C1",
+        "topic": "book reviews",
+        "keywords": [
+            "book",
+            "novel",
+            "detective",
+            "story",
+            "author"
+        ]
+    },
+        {
+        "filename": "C1_Reading_29.txt",
+        "cefr_level": "C1",
+        "topic": "sports",
+        "keywords": [
+            "running",
+            "Kenya",
+            "altitude",
+            "training",
+            "runners"
+          ]
+    },
+    {
+        "filename": "C1_Reading_30.txt",
+        "cefr_level": "C1",
+        "topic": "personality",
+        "keywords": [
+            "eccentrics",
+            "individuality",
+            "conformity",
+            "behaviour",
+            "society"
+        ]
+    },
+     {
+        "filename": "C1_Reading_31.txt",
+        "cefr_level": "C1",
+        "topic": "photography",
+        "keywords": [
+            "photography",
+            "people",
+            "pictures",
+            "camera",
+            "portraits"
+        ]
+    },
+        {
+        "filename": "C1_Reading_32.txt",
+        "cefr_level": "C1",
+        "topic": "book reviews",
+        "keywords": [
+            "book",
+            "novel",
+            "author",
+            "story",
+            "paperback"
+        ]
+    },
+    {
+        "filename": "C1_Reading_33.txt",
+        "cefr_level": "C1",
+        "topic": "art",
+        "keywords": [
+            "Picasso",
+            "artist",
+            "drawing",
+            "portrait",
+            "sketch"
+        ]
+    },
+        {
+        "filename": "C1_Reading_34.txt",
+        "cefr_level": "C1",
+        "topic": "literature",
+        "keywords": [
+            "crime",
+            "writer",
+            "novelist",
+            "detective",
+            "stories"
+        ]
+    },
+     {
+        "filename": "C1_Reading_35.txt",
+        "cefr_level": "C1",
+        "topic": "lifestyle",
+        "keywords": [
+            "swap",
+            "lives",
+            "job",
+            "mother",
+            "waitress"
+        ]
+    },
+        {
+        "filename": "C1_Reading_36.txt",
+        "cefr_level": "C1",
+        "topic": "publishing",
+        "keywords": [
+            "reviews",
+            "books",
+            "publishers",
+            "sales",
+            "critics"
+        ]
+    },
+    {
+        "filename": "C1_Reading_37.txt",
+        "cefr_level": "C1",
+        "topic": "food",
+        "keywords": [
+            "chewing gum",
+            "chicle",
+            "food",
+            "industry",
+            "product"
+        ]
+    },
+    {
+        "filename": "C1_Reading_38.txt",
+        "cefr_level": "C1",
+        "topic": "adventure",
+        "keywords": [
+            "desert",
+            "expedition",
+            "adventure",
+            "Taklamakan",
+            "China"
+        ]
+    },
+    {
+ "filename": "C1_Reading_39.txt",
+        "cefr_level": "C1",
+        "topic": "careers",
+        "keywords": [
+            "career",
+            "job",
+            "work",
+            "day",
+            "profession"
+        ]
+    },
+    {
+        "filename": "C1_Reading_40.txt",
+        "cefr_level": "C1",
+        "topic": "workplace",
+        "keywords": [
+            "office",
+            "environment",
+            "health",
+            "ergonomics",
+            "building"
+        ]
+    },
+     {
+        "filename": "C1_Reading_41.txt",
+        "cefr_level": "C1",
+        "topic": "work",
+        "keywords": [
+            "technology",
+            "computer",
+            "journalism",
+            "home",
+            "office"
+        ]
+    },
+      {
+        "filename": "C1_Reading_42.txt",
+        "cefr_level": "C1",
+        "topic": "environment",
+        "keywords": [
+            "house",
+            "environment",
+            "solar",
+            "energy",
+            "design"
+        ]
+    },
+   {
+        "filename": "C1_Reading_43.txt",
+        "cefr_level": "C1",
+        "topic": "health",
+        "keywords": [
+            "health farm",
+            "spa",
+            "hotel",
+            "treatment",
+            "relaxation"
+        ]
+    },
+   {
+        "filename": "C1_Reading_44.txt",
+        "cefr_level": "C1",
+        "topic": "careers",
+        "keywords": [
+            "leadership",
+            "management",
+            "skills",
+            "work",
+            "career"
+        ]
+    },
+ {
+        "filename": "C1_Reading_45.txt",
+        "cefr_level": "C1",
+        "topic": "science",
+        "keywords": [
+            "weightlessness",
+            "experiments",
+            "students",
+            "aircraft",
+            "gravity"
+        ]
+    },
+ {
+        "filename": "C1_Reading_46.txt",
+        "cefr_level": "C1",
+        "topic": "work",
+        "keywords": [
+            "hotel",
+            "inspector",
+            "inspection",
+            "staff",
+            "service"
+        ]
+    },
+    {
+        "filename": "C1_Reading_47.txt",
+        "cefr_level": "C1",
+        "topic": "mountaineering",
+        "keywords": [
+            "mountaineering",
+            "climbing",
+            "summits",
+            "mountains",
+            "expedition"
+        ]
+    },
+     {
+        "filename": "C1_Reading_48.txt",
+        "cefr_level": "C1",
+        "topic": "sleep",
+        "keywords": [
+            "sleep",
+            "theories",
+            "physiological",
+            "learning",
+            "energy"
+        ]
+    },
+ {
+        "filename": "C1_Reading_49.txt",
+        "cefr_level": "C1",
+        "topic": "animals",
+        "keywords": [
+            "hedgehog",
+            "spines",
+            "mammal",
+            "nocturnal",
+            "hibernate"
+        ]
+    },
+    {
+        "filename": "C1_Reading_50.txt",
+        "cefr_level": "C1",
+        "topic": "photography",
+        "keywords": [
+            "photography",
+            "camera",
+            "images",
+            "pictures",
+            "truth"
+        ]
+    },
+    {
+ "filename": "C1_Reading_51.txt",
+        "cefr_level": "C1",
+        "topic": "journalism",
+        "keywords": [
+            "media",
+            "photography",
+            "social media",
+            "journalists",
+            "images"
+        ]
+    },
+    {
+        "filename": "C1_Reading_52.txt",
+        "cefr_level": "C1",
+        "topic": "tourism",
+        "keywords": [
+            "volunteering",
+            "tourism",
+            "development",
+            "travel",
+            "ethics"
+        ]
+    },
+        {
+        "filename": "C1_Reading_53.txt",
+        "cefr_level": "C1",
+        "topic": "newspapers",
+        "keywords": [
+            "newspapers",
+            "digital",
+            "transition",
+            "online",
+            "print"
+        ]
+    },
+   {
+        "filename": "C1_Reading_54.txt",
+        "cefr_level": "C1",
+        "topic": "technology",
+        "keywords": [
+            "clock",
+            "radio",
+            "alarm",
+            "gadgets",
+            "review"
+        ]
+    },
+   {
+        "filename": "C1_Reading_55.txt",
+        "cefr_level": "C1",
+        "topic": "work",
+        "keywords": [
+            "dowsing",
+            "water",
+            "ability",
+            "skill",
+            "farmers"
+        ]
+    },
+        {
+        "filename": "C1_Reading_56.txt",
+        "cefr_level": "C1",
+        "topic": "travel",
+        "keywords": [
+            "backpacking",
+            "travel",
+            "career",
+            "journey",
+            "adventure"
+        ]
+    },
+   {
+        "filename": "C1_Reading_57.txt",
+        "cefr_level": "C1",
+        "topic": "nature",
+        "keywords": [
+            "nature",
+            "books",
+            "wildlife",
+            "environment",
+            "influence"
+        ]
+    },
+     {
+        "filename": "C1_Reading_58.txt",
+        "cefr_level": "C1",
+        "topic": "museum",
+        "keywords": [
+            "museum",
+            "Scotland",
+            "exhibitions",
+            "history",
+            "culture"
+        ]
+    },
+    {
+        "filename": "C1_Reading_59.txt",
+        "cefr_level": "C1",
+        "topic": "careers",
+        "keywords": [
+            "fame",
+            "fortune",
+            "career",
+            "talent",
+            "success"
+        ]
+    },
+  {
+        "filename": "C1_Reading_60.txt",
+        "cefr_level": "C1",
+        "topic": "careers",
+        "keywords": [
+            "emotional intelligence",
+            "work",
+            "success",
+            "skills",
+            "management"
+        ]
+    },
+    {
+        "filename": "C1_Reading_61.txt",
+        "cefr_level": "C1",
+        "topic": "work",
+        "keywords": [
+            "cabinet-maker",
+            "furniture",
+            "craft",
+            "design",
+            "wood"
+        ]
+    },
+     {
+        "filename": "C1_Reading_62.txt",
+        "cefr_level": "C1",
+        "topic": "science",
+        "keywords": [
+            "science",
+            "biography",
+            "scientist",
+            "Dorothy Hodgkin",
+            "Nobel"
+        ]
+    },
+     {
+        "filename": "C1_Reading_63.txt",
+        "cefr_level": "C1",
+        "topic": "film reviews",
+        "keywords": [
+            "film",
+            "movie",
+            "video",
+            "review",
+            "cinema"
+        ]
+    },
+        {
+        "filename": "C1_Reading_64.txt",
+        "cefr_level": "C1",
+        "topic": "art",
+        "keywords": [
+            "art",
+            "artist",
+            "trompe-l'oeil",
+            "painting",
+            "illusion"
+        ]
+    },
+   {
+        "filename": "C1_Reading_65.txt",
+        "cefr_level": "C1",
+        "topic": "design",
+        "keywords": [
+            "boat",
+            "design",
+            "sailing",
+            "yacht",
+            "technology"
+        ]
+    },
+  {
+        "filename": "C1_Reading_66.txt",
+        "cefr_level": "C1",
+        "topic": "science",
+        "keywords": [
+            "Halley",
+            "comet",
+            "astronomy",
+            "science",
+            "voyage"
+        ]
+    },
+    {
+        "filename": "C1_Reading_67.txt",
+        "cefr_level": "C1",
+    "topic": "medicine",
+    "keywords":["acupuncture","medicine","treatment","pain","health"]
+    }
+]

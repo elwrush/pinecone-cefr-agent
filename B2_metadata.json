@@ -1,0 +1,561 @@
+[
+    {
+        "filename": "B2_Reading_01.txt",
+        "cefr_level": "B2",
+        "topic": "music",
+        "keywords": [
+            "musicians",
+            "family",
+            "cello",
+            "instruments",
+            "composer"
+        ]
+    },
+    {
+        "filename": "B2_Reading_02.txt",
+        "cefr_level": "B2",
+        "topic": "nature",
+        "keywords": [
+            "kingfisher",
+            "bird",
+            "wildlife",
+            "photography",
+            "stream"
+        ]
+    },
+    {
+        "filename": "B2_Reading_03.txt",
+        "cefr_level": "B2",
+        "topic": "jobs",
+        "keywords": [
+            "exhibition",
+            "organiser",
+            "teacher",
+            "conservationist",
+            "publisher"
+        ]
+    },
+    {
+        "filename": "B2_Reading_04.txt",
+        "cefr_level": "B2",
+        "topic": "travel",
+        "keywords": [
+            "train",
+            "station",
+            "Philadelphia",
+            "passport",
+            "favour"
+        ]
+    },
+    {
+        "filename": "B2_Reading_05.txt",
+        "cefr_level": "B2",
+        "topic": "games",
+        "keywords": [
+            "pichenotte",
+            "game",
+            "brothers",
+            "board",
+            "business"
+        ]
+    },
+    {
+        "filename": "B2_Reading_06.txt",
+        "cefr_level": "B2",
+        "topic": "sport",
+        "keywords": [
+            "runner",
+            "surfer",
+            "yacht",
+            "tennis",
+            "athlete"
+        ]
+    },
+    {
+        "filename": "B2_Reading_07.txt",
+        "cefr_level": "B2",
+        "topic": "accommodation",
+        "keywords": [
+            "flat",
+            "Dublin",
+            "hostel",
+            "room",
+            "rent"
+        ]
+    },
+    {
+        "filename": "B2_Reading_08.txt",
+        "cefr_level": "B2",
+        "topic": "writing",
+        "keywords": [
+            "publish",
+            "writer",
+            "stories",
+            "advice",
+            "market"
+        ]
+    },
+    {
+        "filename": "B2_Reading_09.txt",
+        "cefr_level": "B2",
+        "topic": "travel",
+        "keywords": [
+            "favourite",
+            "place",
+            "England",
+            "landscape",
+            "railway"
+        ]
+    },
+    {
+        "filename": "B2_Reading_10.txt",
+        "cefr_level": "B2",
+        "topic": "travel",
+        "keywords": [
+            "Ireland",
+            "holiday",
+            "Glencorn",
+            "hotel",
+            "guests"
+        ]
+    },
+  {
+        "filename": "B2_Reading_11.txt",
+        "cefr_level": "B2",
+        "topic": "film",
+        "keywords": ["film", "wildlife", "Africa", "partnership", "camera"]
+    },
+    {
+        "filename": "B2_Reading_12.txt",
+        "cefr_level": "B2",
+        "topic": "jobs",
+        "keywords": ["zoo", "keeper", "magazine", "fashion", "nurse"]
+    },
+    {
+        "filename": "B2_Reading_13.txt",
+        "cefr_level": "B2",
+        "topic": "weather",
+        "keywords": ["storm", "wind", "tree", "damage", "police"]
+    },
+       {
+        "filename": "B2_Reading_14.txt",
+        "cefr_level": "B2",
+        "topic": "sport",
+        "keywords": ["netball", "captain", "England", "championships", "training"]
+    },
+    {
+        "filename": "B2_Reading_15.txt",
+        "cefr_level": "B2",
+        "topic": "fashion",
+        "keywords": ["style", "clothes", "designer", "jewellery", "hairdresser"]
+    },
+    {
+        "filename": "B2_Reading_16.txt",
+        "cefr_level": "B2",
+        "topic": "environment",
+        "keywords": ["valley", "storms", "snow", "river", "clouds"]
+    },
+   {
+        "filename": "B2_Reading_17.txt",
+        "cefr_level": "B2",
+        "topic": "confidence",
+        "keywords": ["confident", "people", "school", "work", "advice"]
+    },
+   {
+        "filename": "B2_Reading_18.txt",
+        "cefr_level": "B2",
+        "topic": "art",
+        "keywords": ["artist", "shells", "objects", "exhibition", "beach"]
+    },
+   {
+        "filename": "B2_Reading_19.txt",
+        "cefr_level": "B2",
+        "topic": "hotel",
+        "keywords": ["hotel", "technology", "Dublin", "guests", "rooms"]
+    },
+
+    {
+        "filename": "B2_Reading_20.txt",
+        "cefr_level": "B2",
+        "topic": "hotels",
+        "keywords": ["hotel", "technology", "guests", "rooms", "Dublin"]
+    },
+    {
+        "filename": "B2_Reading_21.txt",
+        "cefr_level": "B2",
+        "topic": "film",
+        "keywords": ["film", "critic", "newspaper", "review", "job"]
+    },
+    {
+        "filename": "B2_Reading_22.txt",
+        "cefr_level": "B2",
+        "topic": "health",
+        "keywords": ["dentist", "surgery", "patients", "relaxation", "treatment"]
+    },
+    {
+        "filename": "B2_Reading_23.txt",
+        "cefr_level": "B2",
+        "topic": "entertainment",
+        "keywords": ["theme park", "families", "children", "rides", "fun"]
+    },
+      {
+        "filename": "B2_Reading_24.txt",
+        "cefr_level": "B2",
+        "topic": "art",
+        "keywords": [
+          "artist",
+            "flower",
+          "painting",
+            "garden",
+          "studio"
+        ]
+    },
+      {
+        "filename": "B2_Reading_25.txt",
+        "cefr_level": "B2",
+        "topic": "art",
+        "keywords": [
+          "artist",
+            "flower",
+            "painting",
+            "garden",
+          "studio"
+        ]
+    },
+     {
+        "filename": "B2_Reading_26.txt",
+        "cefr_level": "B2",
+        "topic": "travel",
+        "keywords": [
+          "railway",
+            "train",
+            "journey",
+          "travel",
+            "France"
+        ]
+    },
+     {
+        "filename": "B2_Reading_27.txt",
+        "cefr_level": "B2",
+        "topic": "work",
+        "keywords": [
+          "factory",
+          "gloves",
+            "research",
+          "leather",
+            "tannery"
+        ]
+    },
+     {
+        "filename": "B2_Reading_28.txt",
+        "cefr_level": "B2",
+        "topic": "science",
+        "keywords": [
+            "height",
+          "tallest",
+            "people",
+          "growth",
+            "food"
+        ]
+    },
+    {
+        "filename": "B2_Reading_29.txt",
+        "cefr_level": "B2",
+        "topic": "science",
+        "keywords": [
+           "height",
+          "tallest",
+            "people",
+          "growth",
+            "food"
+        ]
+    },
+    {
+        "filename": "B2_Reading_30.txt",
+        "cefr_level": "B2",
+        "topic": "work",
+        "keywords": ["restaurant", "cooking", "childhood", "family", "business"]
+    },
+  {
+        "filename": "B2_Reading_31.txt",
+        "cefr_level": "B2",
+        "topic": "science",
+        "keywords": ["scientist", "research", "ocean", "Atlantic", "volcanoes"]
+    },
+    {
+        "filename": "B2_Reading_32.txt",
+        "cefr_level": "B2",
+        "topic": "shopping",
+        "keywords": ["supermarket", "children", "parents", "advertising", "products"]
+    },
+      {
+        "filename": "B2_Reading_33.txt",
+        "cefr_level": "B2",
+        "topic": "shopping",
+        "keywords": [
+            "supermarket",
+            "children",
+            "parents",
+            "advertising",
+            "products"
+        ]
+    },
+    {
+        "filename": "B2_Reading_34.txt",
+        "cefr_level": "B2",
+        "topic": "work",
+        "keywords": ["chalet", "girl", "skiing", "France", "guests", "cooking"]
+    },
+    {
+        "filename": "B2_Reading_35.txt",
+        "cefr_level": "B2",
+        "topic": "careers",
+        "keywords": ["farmer", "painter", "hatmaker", "masseur", "redundancy"]
+    },
+      {
+        "filename": "B2_Reading_36.txt",
+        "cefr_level": "B2",
+        "topic": "careers",
+        "keywords": ["insurance", "artist", "lawyer", "finance", "redundancy"]
+    },
+    {
+        "filename": "B2_Reading_37.txt",
+        "cefr_level": "B2",
+        "topic": "travel",
+        "keywords": ["luggage", "airport", "airline", "flights", "baggage"]
+    },
+    {
+        "filename": "B2_Reading_38.txt",
+        "cefr_level": "B2",
+        "topic": "careers",
+        "keywords": ["job", "advice", "career", "skills", "employment"]
+    },
+      {
+        "filename": "B2_Reading_39.txt",
+        "cefr_level": "B2",
+        "topic": "food",
+        "keywords": ["chocolate", "cocoa", "history", "beans", "production"]
+    },
+    {
+        "filename": "B2_Reading_40.txt",
+        "cefr_level": "B2",
+        "topic": "health",
+        "keywords": ["energy", "women", "journalist", "magazine", "editor"]
+    },
+      {
+        "filename": "B2_Reading_41.txt",
+        "cefr_level": "B2",
+        "topic": "tourism",
+        "keywords": ["village", "model", "tourism", "England", "attraction"]
+    },
+      {
+        "filename": "B2_Reading_42.txt",
+        "cefr_level": "B2",
+        "topic": "animals",
+        "keywords": ["cat", "mouse", "snake", "garden", "pets"]
+    },
+      {
+        "filename": "B2_Reading_43.txt",
+        "cefr_level": "B2",
+        "topic": "animals",
+        "keywords": ["dolphins", "ocean", "sea", "conservation", "threats"]
+    },
+     {
+        "filename": "B2_Reading_44.txt",
+        "cefr_level": "B2",
+        "topic": "careers",
+        "keywords": ["job", "advice", "career", "skills", "employment"]
+    },
+     {
+        "filename": "B2_Reading_45.txt",
+        "cefr_level": "B2",
+        "topic": "sports",
+        "keywords": ["ice", "skating", "history", "Olympics", "beginner"]
+    },
+     {
+        "filename": "B2_Reading_46.txt",
+        "cefr_level": "B2",
+        "topic": "sport",
+        "keywords": [
+          "triathlon",
+            "running",
+            "cycling",
+            "swimming",
+          "training"
+        ]
+    },
+    {
+        "filename": "B2_Reading_47.txt",
+        "cefr_level": "B2",
+        "topic": "travel",
+        "keywords": [
+          "Malaysia",
+            "kite",
+            "festival",
+            "forest",
+            "holiday"
+        ]
+    },
+     {
+        "filename": "B2_Reading_48.txt",
+        "cefr_level": "B2",
+        "topic": "shopping",
+        "keywords": [
+            "shopper",
+          "shopping",
+          "clothes",
+            "food",
+          "money"
+        ]
+    },
+       {
+        "filename": "B2_Reading_49.txt",
+        "cefr_level": "B2",
+        "topic": "business",
+        "keywords": [
+          "gold",
+            "father",
+           "son",
+            "Canada",
+            "Wales"
+        ]
+    },
+    {
+    "filename": "B2_Reading_50.txt",
+        "cefr_level": "B2",
+        "topic": "education",
+        "keywords": ["music", "schools", "children", "musicians", "environment"]
+    },
+  {
+    "filename": "B2_Reading_51.txt",
+    "cefr_level": "B2",
+    "topic": "health",
+    "keywords": ["exercise", "fitness", "body", "muscle", "mind"]
+  },
+  {
+    "filename": "B2_Reading_52.txt",
+    "cefr_level": "B2",
+    "topic": "food",
+    "keywords": ["cook", "food", "recipes", "chef", "restaurant"]
+  },
+  {
+    "filename": "B2_Reading_53.txt",
+    "cefr_level": "B2",
+    "topic": "conservation",
+    "keywords": ["countryside", "trust", "warden", "knowledge", "farmers"]
+  },
+ {
+    "filename": "B2_Reading_54.txt",
+    "cefr_level": "B2",
+    "topic": "environment",
+    "keywords": ["pictures", "rocks", "damage", "tourists", "mountain"]
+  },
+  {
+    "filename": "B2_Reading_55.txt",
+    "cefr_level": "B2",
+    "topic": "accommodation",
+    "keywords": ["hotel", "ice", "rooms", "winter", "Jukkasjarvi"]
+  },
+   {
+        "filename": "B2_Reading_56.txt",
+        "cefr_level": "B2",
+        "topic": "music",
+        "keywords": ["band", "Moonshine", "music", "songs", "CD"]
+    },
+    {
+        "filename": "B2_Reading_57.txt",
+        "cefr_level": "B2",
+        "topic": "places",
+        "keywords": ["Skywalk", "Canyon", "view", "platform", "tourists"]
+    },
+     {
+        "filename": "B2_Reading_58.txt",
+        "cefr_level": "B2",
+        "topic": "school",
+        "keywords": ["school", "building", "classrooms", "teachers", "students"]
+    },
+      {
+        "filename": "B2_Reading_59.txt",
+        "cefr_level": "B2",
+        "topic": "music",
+        "keywords": ["jazz", "band", "music", "competition", "school"]
+    },
+    {
+        "filename": "B2_Reading_60.txt",
+        "cefr_level": "B2",
+        "topic": "animals",
+        "keywords": ["sharks", "ocean", "water", "dangerous", "creatures"]
+    },
+{
+        "filename": "B2_Reading_61.txt",
+        "cefr_level": "B2",
+        "topic": "jobs",
+        "keywords": ["actor", "career", "risky", "talent", "profession"]
+    },
+     {
+        "filename": "B2_Reading_62.txt",
+        "cefr_level": "B2",
+        "topic": "modelling",
+        "keywords": ["model", "schoolgirl", "competition", "agency", "career"]
+    },
+     {
+        "filename": "B2_Reading_63.txt",
+        "cefr_level": "B2",
+        "topic": "science",
+        "keywords": ["scientist", "research", "ocean", "Atlantic", "volcanoes"]
+    },
+    {
+        "filename": "B2_Reading_64.txt",
+        "cefr_level": "B2",
+        "topic": "sport",
+        "keywords": ["gymnastics", "medal", "competition", "Olympics", "training"]
+    },
+     {
+        "filename": "B2_Reading_65.txt",
+        "cefr_level": "B2",
+        "topic": "climbing",
+        "keywords": ["climbing", "wall", "mountains", "indoor", "technology"]
+    },
+     {
+        "filename": "B2_Reading_66.txt",
+        "cefr_level": "B2",
+        "topic": "childhood",
+        "keywords": ["jump", "roof", "Michael", "friends", "home"]
+    },
+      {
+        "filename": "B2_Reading_67.txt",
+        "cefr_level": "B2",
+        "topic": "work",
+        "keywords": ["chalet", "girl", "skiing", "France", "guests", "cooking"]
+    },
+      {
+        "filename": "B2_Reading_68.txt",
+        "cefr_level": "B2",
+        "topic": "music",
+        "keywords": [
+          "conductor",
+            "orchestra",
+          "music",
+            "opera",
+          "performance"
+        ]
+    },
+{
+        "filename": "B2_Reading_69.txt",
+        "cefr_level": "B2",
+        "topic": "media",
+        "keywords": ["newspapers", "privacy", "celebrities", "press", "complaints"]
+    },
+     {
+        "filename": "B2_Reading_70.txt",
+        "cefr_level": "B2",
+        "topic": "collecting",
+        "keywords": ["collector", "collection", "objects", "hobby", "passion"]
+    },
+    {
+        "filename": "B2_Reading_71.txt",
+        "cefr_level": "B2",
+        "topic": "jobs",
+        "keywords": ["pop", "star", "restaurant", "chef", "cook"]
+    }
+]

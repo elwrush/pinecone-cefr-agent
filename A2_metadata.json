@@ -1,0 +1,386 @@
+[
+    {
+        "filename": "A2_Reading_01.txt",
+        "cefr_level": "A2",
+        "topic": "Literature",
+        "keywords": ["books", "stories", "nurse", "carpenter", "doctor"]
+    },
+    {
+        "filename": "A2_Reading_02.txt",
+        "cefr_level": "A2",
+        "topic": "Animals",
+        "keywords": ["Schnauzer", "dogs", "Germany", "farmers", "sheep", "police"]
+    },
+    {
+        "filename": "A2_Reading_03.txt",
+        "cefr_level": "A2",
+        "topic": "Travel/Education",
+        "keywords": ["language school", "Brighton", "students", "friends", "London"]
+    },
+    {
+        "filename": "A2_Reading_04.txt",
+        "cefr_level": "A2",
+        "topic": "History/Society",
+        "keywords": ["London", "police", "thieves", "Bow Street Runners", "Metropolitan Police"]
+    },
+    {
+        "filename": "A2_Reading_05.txt",
+        "cefr_level": "A2",
+        "topic": "Animals/History",
+        "keywords": ["dinosaurs", "birds", "Brontosaurus", "Tyrannosaurus Rex", "extinct"]
+    },
+    {
+        "filename": "A2_Reading_06.txt",
+        "cefr_level": "A2",
+        "topic": "Social/Correspondence",
+        "keywords": ["lunch", "meeting", "London", "Italian restaurant", "letter"]
+    },
+    {
+        "filename": "A2_Reading_07.txt",
+        "cefr_level": "A2",
+        "topic": "Travel/Culture",
+        "keywords": ["Edinburgh Festival", "Scotland", "actors", "artists", "music", "dance"]
+    },
+    {
+       "filename": "A2_Reading_08.txt",
+        "cefr_level": "A2",
+        "topic": "Animals",
+        "keywords": ["Rhino", "Africa", "Asia", "animals", "wildlife"]
+    },
+    {
+        "filename": "A2_Reading_09.txt",
+        "cefr_level": "A2",
+        "topic": "Travel/Correspondence",
+        "keywords": ["London", "Cambridge", "brother", "flat", "Regents Park", "Greece"]
+    },
+    {
+        "filename": "A2_Reading_10.txt",
+        "cefr_level": "A2",
+        "topic": "Crime/Society",
+        "keywords": ["burglars", "police", "house", "burglaries", "Inspector Ian Saunders"]
+    },
+     {
+        "filename": "A2_Reading_11.txt",
+        "cefr_level": "A2",
+        "topic": "History/Tourism",
+        "keywords": ["Madame Tussaud's", "museum", "London", "wax figures", "French Revolution"]
+    },
+    {
+        "filename": "A2_Reading_12.txt",
+        "cefr_level": "A2",
+        "topic": "Work/Business",
+        "keywords": ["staff", "holidays", "memo", "D Brown", "J Green"]
+    },
+    {
+        "filename": "A2_Reading_13.txt",
+        "cefr_level": "A2",
+        "topic": "Animals/Nature",
+        "keywords": ["Canada Geese", "birds", "Bill Lishman", "migration", "plane"]
+    },
+    {
+        "filename": "A2_Reading_14.txt",
+        "cefr_level": "A2",
+        "topic": "Transportation",
+        "keywords": ["bicycle", "travel", "history", "cars", "cycling"]
+    },
+    {
+        "filename": "A2_Reading_15.txt",
+        "cefr_level": "A2",
+        "topic": "Education/Correspondence",
+        "keywords": ["English courses", "information", "letter", "Maria Gonzalez", "David May"]
+    },
+      {
+        "filename": "A2_Reading_16.txt",
+        "cefr_level": "A2",
+        "topic": "Business/Entrepreneurship",
+        "keywords": ["Esther", "jam", "business", "market", "food"]
+    },
+    {
+        "filename": "A2_Reading_17.txt",
+        "cefr_level": "A2",
+        "topic": "History/Transportation",
+        "keywords": ["air travel", "balloon", "Wright brothers", "aeroplane", "Concorde"]
+    },
+    {
+        "filename": "A2_Reading_18.txt",
+        "cefr_level": "A2",
+        "topic": "Lost and Found/Correspondence",
+        "keywords": ["bag", "train", "Cambridge", "letter", "Mary Johnson", "J Wilson"]
+    },
+    {
+        "filename": "A2_Reading_19.txt",
+        "cefr_level": "A2",
+        "topic": "Adventure/Biography",
+        "keywords": ["Rebecca Stevens", "Mount Everest", "climbing", "journalist", "mountain"]
+    },
+    {
+        "filename": "A2_Reading_20.txt",
+        "cefr_level": "A2",
+        "topic": "Animals",
+        "keywords": ["ostrich", "bird", "Africa", "running", "wildlife"]
+    },
+    {
+        "filename": "A2_Reading_21.txt",
+        "cefr_level": "A2",
+        "topic": "Social/Correspondence",
+        "keywords": ["cinema", "Pocahontas", "film", "invitation", "friends"]
+    },
+     {
+        "filename": "A2_Reading_22.txt",
+        "cefr_level": "A2",
+        "topic": "Work/Career",
+        "keywords": ["airline", "Nicola Peet", "air hostess", "British Airways", "Heathrow Airport"]
+    },
+    {
+        "filename": "A2_Reading_23.txt",
+        "cefr_level": "A2",
+        "topic": "Travel/Adventure",
+        "keywords": ["Ruwenzori Mountains", "Africa", "road", "forest", "Mary Daniels"]
+    },
+    {
+        "filename": "A2_Reading_24.txt",
+        "cefr_level": "A2",
+        "topic": "Social/Correspondence",
+        "keywords": ["party", "cold", "friends", "presents", "letter"]
+    },
+    {
+        "filename": "A2_Reading_25.txt",
+        "cefr_level": "A2",
+        "topic": "Food/Restaurant",
+        "keywords": ["Howard Bonnier", "restaurant", "The Palace", "Bray", "cooking", "France"]
+    },
+    {
+        "filename": "A2_Reading_26.txt",
+        "cefr_level": "A2",
+        "topic": "Hobbies/Culture",
+        "keywords": ["line dancing", "clubs", "classes", "American country music", "friends"]
+    },
+    {
+        "filename": "A2_Reading_27.txt",
+        "cefr_level": "A2",
+        "topic": "Correspondence/Photography",
+        "keywords":["Thank you", "photographs", "children", "camera", "New York"]
+    },
+    {
+        "filename": "A2_Reading_28.txt",
+        "cefr_level": "A2",
+        "topic": "Literature/Author",
+        "keywords": ["Bill Prince-Smith", "children's books", "writer", "village", "The Sheepdog", "film"]
+    },
+    {
+        "filename": "A2_Reading_29.txt",
+        "cefr_level": "A2",
+        "topic": "Animals",
+        "keywords": ["otters", "rivers", "water", "Great Britain", "wildlife"]
+    },
+    {
+        "filename": "A2_Reading_30.txt",
+        "cefr_level": "A2",
+        "topic": "Travel/Announcement",
+        "keywords": ["camping trip", "forest", "school bus", "camp-site", "students"]
+    },
+    {
+        "filename": "A2_Reading_31.txt",
+        "cefr_level": "A2",
+        "topic": "Health/Lifestyle",
+        "keywords": ["Boyzone", "healthy life", "sleeping", "sport", "food", "music"]
+    },
+    {
+        "filename": "A2_Reading_32.txt",
+        "cefr_level": "A2",
+        "topic": "History/Culture",
+        "keywords": ["Cerne Giant", "Sherborne", "Dorchester", "hills", "picture", "village"]
+    },
+    {
+        "filename": "A2_Reading_33.txt",
+        "cefr_level": "A2",
+        "topic": "Work/Correspondence",
+        "keywords": ["job", "Tourist Information Office", "city centre", "uniform", "letter"]
+    },
+    {
+        "filename": "A2_Reading_34.txt",
+        "cefr_level": "A2",
+        "topic": "Music/Career",
+        "keywords": ["John Pickering", "gardener", "singer", "Japan", "Jon Otis", "music"]
+    },
+    {
+        "filename": "A2_Reading_35.txt",
+        "cefr_level": "A2",
+        "topic": "Culture/History",
+        "keywords": ["postcards", "pictures", "holiday", "nineteenth century", "message"]
+    },
+    {
+        "filename": "A2_Reading_36.txt",
+        "cefr_level": "A2",
+        "topic": "School/Correspondence",
+        "keywords": ["English class", "sister", "wedding", "shopping", "letter"]
+    },
+     {
+        "filename": "A2_Reading_37.txt",
+        "cefr_level": "A2",
+        "topic": "Travel/Author",
+        "keywords": ["Bill Bryson", "travel books", "England", "United States", "children", "radio programme"]
+    },
+    {
+        "filename": "A2_Reading_38.txt",
+        "cefr_level": "A2",
+        "topic": "Animals",
+        "keywords": ["crocodiles", "Africa", "South America", "Australia", "teeth", "animals"]
+    },
+    {
+        "filename": "A2_Reading_39.txt",
+        "cefr_level": "A2",
+        "topic": "Correspondence/Travel",
+        "keywords": ["friends", "English class", "England", "job", "letter"]
+    },
+    {
+        "filename": "A2_Reading_40.txt",
+        "cefr_level": "A2",
+        "topic": "Sports",
+        "keywords": ["snowboarding", "Victoria Jamieson", "competitions", "winter", "lessons"]
+    },
+    {
+        "filename": "A2_Reading_41.txt",
+        "cefr_level": "A2",
+        "topic": "Animals",
+        "keywords": ["bear", "animal", "dangerous", "climbing", "forests"]
+    },
+    {
+        "filename": "A2_Reading_42.txt",
+        "cefr_level": "A2",
+        "topic": "Accommodation/Correspondence",
+        "keywords": ["hotel", "cheap", "town", "friends", "visit", "letter"]
+    },
+      {
+        "filename": "A2_Reading_43.txt",
+        "cefr_level": "A2",
+        "topic": "Hobbies",
+        "keywords": ["ice-fishing", "Lake Nipissing", "Canada", "winter", "lake"]
+    },
+   {
+        "filename": "A2_Reading_44.txt",
+        "cefr_level": "A2",
+        "topic": "Agriculture",
+        "keywords": ["farming", "food", "plants", "villages", "farmers"]
+    },
+    {
+        "filename": "A2_Reading_45.txt",
+        "cefr_level": "A2",
+        "topic": "Accommodation/Correspondence",
+        "keywords": ["hotel", "room", "shower", "park", "restaurant","letter"]
+    },
+     {
+        "filename": "A2_Reading_46.txt",
+        "cefr_level": "A2",
+        "topic": "Business",
+        "keywords": ["farm", "sheep", "wool", "sweaters", "socks"]
+    },
+    {
+        "filename": "A2_Reading_47.txt",
+        "cefr_level": "A2",
+        "topic": "Theatre",
+        "keywords": ["Globe", "theatre", "London", "Shakespeare", "plays"]
+    },
+    {
+        "filename": "A2_Reading_48.txt",
+        "cefr_level": "A2",
+        "topic": "Travel",
+        "keywords": ["Australia", "holiday", "weather", "beach", "swimming"]
+    },
+    {
+        "filename": "A2_Reading_49.txt",
+        "cefr_level": "A2",
+        "topic": "Technology",
+        "keywords": ["computer", "game", "reading", "picture", "school"]
+    },
+      {
+        "filename": "A2_Reading_50.txt",
+        "cefr_level": "A2",
+        "topic": "Animals",
+        "keywords": ["Parrots","birds", "Brazil", "Australia","India", "zoo"]
+    },
+    {
+        "filename": "A2_Reading_51.txt",
+        "cefr_level": "A2",
+        "topic": "Correspondence",
+        "keywords": ["volleyball", "match", "friend", "Australia","holidays", "camping"]
+    },
+      {
+        "filename": "A2_Reading_52.txt",
+        "cefr_level": "A2",
+        "topic": "Music",
+        "keywords": ["Piano players", "Ivan Petrov", "Oleg Gagarin","Josef Heptmann", "music"]
+     },
+    {
+        "filename": "A2_Reading_53.txt",
+        "cefr_level": "A2",
+        "topic": "Sports",
+        "keywords": ["horse racing ", "sport", "Central Asia", "Greek","Roman", "Europe"]
+    },
+    {
+        "filename": "A2_Reading_54.txt",
+        "cefr_level": "A2",
+        "topic": "Correspondence/Shopping",
+        "keywords": ["Shopping", "grandmother", "party", "trousers","boots", "Indre"]
+    },
+    {
+        "filename": "A2_Reading_55.txt",
+        "cefr_level": "A2",
+        "topic": "Travel/Work",
+        "keywords": ["World traveller", "Nick Barlow", "actor", "TV programmes","wife", "Helen"]
+    },
+    {
+        "filename": "A2_Reading_56.txt",
+        "cefr_level": "A2",
+        "topic": "Animals",
+        "keywords": ["Big cats", "Tigers", "Lions", "size", "food"]
+    },
+    {
+        "filename": "A2_Reading_57.txt",
+        "cefr_level": "A2",
+        "topic": "Correspondence",
+        "keywords": ["penfriend", "Tom", "Canada", "England","India", "school"]
+    },
+     {
+        "filename": "A2_Reading_58.txt",
+        "cefr_level": "A2",
+        "topic": "Movies/Culture",
+        "keywords": ["Bollywood", "Mumbai", "India", "films","cinema", "actors"]
+    },
+    {
+        "filename": "A2_Reading_59.txt",
+        "cefr_level": "A2",
+        "topic": "Architecture",
+        "keywords": ["Buildings", "houses", "stadiums", "museums", "architect","Sydney Opera House"]
+    },
+    {
+        "filename": "A2_Reading_60.txt",
+        "cefr_level": "A2",
+        "topic": "School/Correspondence",
+        "keywords": ["school", "Nicole", "Maths", "hockey","teachers", "homework"]
+    },
+    {
+        "filename": "A2_Reading_61.txt",
+        "cefr_level": "A2",
+        "topic": "Sports/Athlete",
+        "keywords":["Gail Rollins", "Edinburgh", "running","European Championships", "half-marathon", "Mike Rollins"]
+    },
+      {
+        "filename": "A2_Reading_62.txt",
+        "cefr_level": "A2",
+        "topic": "Weather",
+        "keywords":["weather", "farmers", "computer programmes", "mobile phones","sky", "cows"]
+    },
+     {
+        "filename": "A2_Reading_63.txt",
+        "cefr_level": "A2",
+        "topic": "Animals/Travel",
+        "keywords": ["Elephant Show", "Thailand", "park", "flower gardens","keepers", "paintings"]
+    },
+    {
+        "filename": "A2_Reading_64.txt",
+        "cefr_level": "A2",
+        "topic": "Travel/Sports",
+        "keywords": ["Mount Kilimanjaro", "mountain", "climbing", "Africa", "tourists", "weather"]
+    }
+]

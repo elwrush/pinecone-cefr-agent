@@ -1,0 +1,362 @@
+[
+    {
+        "filename": "B1_Reading_01.txt",
+        "cefr_level": "B1",
+        "topic": "travel",
+        "keywords": ["Australia", "holiday", "flights", "Perth", "Sydney"]
+    },
+    {
+        "filename": "B1_Reading_02.txt",
+        "cefr_level": "B1",
+        "topic": "activities",
+        "keywords": ["rock-climbing", "caving", "outdoors", "adventure", "weekend"]
+    },
+    {
+        "filename": "B1_Reading_03.txt",
+        "cefr_level": "B1",
+        "topic": "history",
+        "keywords": ["Hypatia", "scientist", "Alexandria", "mathematics", "education"]
+    },
+    {
+        "filename": "B1_Reading_04.txt",
+        "cefr_level": "B1",
+        "topic": "travel",
+        "keywords": ["Douro", "river", "Portugal", "ship", "itinerary"]
+    },
+    {
+        "filename": "B1_Reading_05.txt",
+        "cefr_level": "B1",
+        "topic": "driving",
+        "keywords": ["winter", "driving", "ice", "snow", "accidents"]
+    },
+    {
+        "filename": "B1_Reading_06.txt",
+        "cefr_level": "B1",
+        "topic": "history",
+        "keywords": ["Samuel Pepys", "diary", "London", "life", "England"]
+    },
+    {
+        "filename": "B1_Reading_07.txt",
+        "cefr_level": "B1",
+        "topic": "places",
+        "keywords": ["Norwich", "city", "England", "history", "cathedrals"]
+    },
+    {
+        "filename": "B1_Reading_08.txt",
+        "cefr_level": "B1",
+        "topic": "business",
+        "keywords": ["Body Shop", "company", "business", "success", "Anita Roddick"]
+    },
+    {
+        "filename": "B1_Reading_09.txt",
+        "cefr_level": "B1",
+        "topic": "travel",
+        "keywords": ["Rocky Mountains", "train", "Vancouver", "Canada", "scenery"]
+    },
+    {
+        "filename": "B1_Reading_10.txt",
+        "cefr_level": "B1",
+        "topic": "travel",
+        "keywords": ["Nene Valley Railway", "train", "Peterborough", "Wansford", "fares"]
+    },
+  {
+    "filename": "B1_Reading_11.txt",
+    "cefr_level": "B1",
+    "topic": "literature",
+    "keywords": ["writing", "stories", "collection", "authors", "fiction"]
+  },
+  {
+    "filename": "B1_Reading_12.txt",
+    "cefr_level": "B1",
+    "topic": "film",
+    "keywords": ["cartoon", "films", "animation", "children", "adults"]
+  },
+  {
+    "filename": "B1_Reading_13.txt",
+    "cefr_level": "B1",
+    "topic": "activities",
+    "keywords": ["outdoor", "centre", "windsurfing", "climbing", "courses"]
+  },
+  {
+    "filename": "B1_Reading_14.txt",
+    "cefr_level": "B1",
+    "topic": "music",
+    "keywords": ["violin", "music", "teacher", "pupils", "lessons"]
+  },
+  {
+    "filename": "B1_Reading_15.txt",
+    "cefr_level": "B1",
+    "topic": "education",
+    "keywords": ["Open University", "degree", "study", "distance learning", "opportunities"]
+  },
+  {
+    "filename": "B1_Reading_16.txt",
+    "cefr_level": "B1",
+    "topic": "hobbies",
+    "keywords": ["stamp", "collecting", "hobby", "club", "membership"]
+  },
+  {
+    "filename": "B1_Reading_17.txt",
+    "cefr_level": "B1",
+    "topic": "education",
+    "keywords": ["Atlantic College", "students", "Wales", "activities", "international"]
+  },
+    {
+        "filename": "B1_Reading_18.txt",
+        "cefr_level": "B1",
+        "topic": "animals",
+        "keywords": ["cat", "lost", "furniture", "van", "driver","owner"]
+    },
+    {
+        "filename": "B1_Reading_19.txt",
+        "cefr_level": "B1",
+        "topic": "places",
+        "keywords": ["gallery", "paintings", "exhibition", "art", "visitors"]
+    },
+    {
+        "filename": "B1_Reading_20.txt",
+        "cefr_level": "B1",
+        "topic": "sport",
+        "keywords": ["running", "club", "women", "training", "fitness"]
+    },
+    {
+        "filename": "B1_Reading_21.txt",
+        "cefr_level": "B1",
+        "topic": "money",
+        "keywords": ["money", "pound", "dollar", "exchange", "currency"]
+    },
+    {
+        "filename": "B1_Reading_22.txt",
+        "cefr_level": "B1",
+        "topic": "hotel",
+        "keywords": ["hotel", "guests", "rooms", "Sunningdale", "facilities"]
+    },
+    {
+        "filename": "B1_Reading_23.txt",
+        "cefr_level": "B1",
+        "topic": "correspondence",
+        "keywords": ["letter", "handbag", "bus", "money", "kindness"]
+    },
+    {
+        "filename": "B1_Reading_24.txt",
+        "cefr_level": "B1",
+        "topic": "food",
+        "keywords": ["cooking", "children", "lessons", "food", "teacher"]
+    },
+    {
+        "filename": "B1_Reading_25.txt",
+        "cefr_level": "B1",
+        "topic": "literature",
+        "keywords": ["story", "society", "magazine", "competition", "writers"]
+    },
+    {
+        "filename": "B1_Reading_26.txt",
+        "cefr_level": "B1",
+        "topic": "television",
+        "keywords": ["TV", "drama", "acting", "university", "filming"]
+    },
+      {
+        "filename": "B1_Reading_27.txt",
+        "cefr_level": "B1",
+        "topic": "nature",
+        "keywords": ["grass", "plant", "world", "animals", "region"]
+    },
+    {
+        "filename": "B1_Reading_28.txt",
+        "cefr_level": "B1",
+        "topic": "travel",
+        "keywords": ["Antarctica", "flights", "tourists", "weather", "wildlife"]
+    },
+    {
+        "filename": "B1_Reading_29.txt",
+        "cefr_level": "B1",
+        "topic": "sport",
+        "keywords": ["Maria Mutola", "football", "athletics", "training", "Mozambique"]
+    },
+    {
+        "filename": "B1_Reading_30.txt",
+        "cefr_level": "B1",
+        "topic": "food",
+        "keywords": ["honey", "bees", "sweet", "food", "health"]
+    },
+    {
+        "filename": "B1_Reading_31.txt",
+        "cefr_level": "B1",
+        "topic": "climbing",
+        "keywords": ["mountain", "Ben Nevis", "climb", "Scotland", "winter"]
+    },
+    {
+        "filename": "B1_Reading_32.txt",
+        "cefr_level": "B1",
+        "topic": "jobs",
+        "keywords": ["clown", "circus", "family", "travel", "education"]
+    },
+    {
+        "filename": "B1_Reading_33.txt",
+        "cefr_level": "B1",
+        "topic": "objects",
+        "keywords": ["shoes", "foot", "leather", "materials", "factory"]
+    },
+    {
+        "filename": "B1_Reading_34.txt",
+        "cefr_level": "B1",
+        "topic": "sport",
+        "keywords": ["free-diving", "Tanya Streeter", "ocean", "record", "training"]
+    },
+      {
+        "filename": "B1_Reading_35.txt",
+        "cefr_level": "B1",
+        "topic": "food",
+        "keywords": ["cooking", "children", "lessons", "food", "teacher"]
+    },
+    {
+        "filename": "B1_Reading_36.txt",
+        "cefr_level": "B1",
+        "topic": "places",
+        "keywords": ["San Francisco", "California", "gold", "tourists", "harbour"]
+    },
+    {
+        "filename": "B1_Reading_37.txt",
+        "cefr_level": "B1",
+        "topic": "books",
+        "keywords": ["book", "club", "join", "benefits", "magazine"]
+    },
+      {
+        "filename": "B1_Reading_38.txt",
+        "cefr_level": "B1",
+        "topic": "music",
+        "keywords": ["band", "drums", "music", "practice", "noise"]
+      },
+     {
+        "filename": "B1_Reading_39.txt",
+        "cefr_level": "B1",
+        "topic": "people",
+        "keywords": ["Tom Cruise", "actor", "film", "Hollywood", "successful"]
+    },
+    {
+        "filename": "B1_Reading_40.txt",
+        "cefr_level": "B1",
+        "topic": "history",
+        "keywords": ["Iditarod", "Alaska", "gold", "dogs", "race"]
+    },
+    {
+        "filename": "B1_Reading_41.txt",
+        "cefr_level": "B1",
+        "topic": "art",
+        "keywords": ["painter", "art", "Scotland", "London", "paintings"]
+    },
+    {
+        "filename": "B1_Reading_42.txt",
+        "cefr_level": "B1",
+        "topic": "animals",
+        "keywords": ["zoos", "animals", "China", "world", "natural"]
+    },
+    {
+        "filename": "B1_Reading_43.txt",
+        "cefr_level": "B1",
+        "topic": "events",
+        "keywords": ["Albuquerque", "Balloon", "festival", "pilots", "sky"]
+    },
+    {
+        "filename": "B1_Reading_44.txt",
+        "cefr_level": "B1",
+        "topic": "jobs",
+        "keywords": ["fashion", "clothes", "business", "designer", "award"]
+    },
+    {
+        "filename": "B1_Reading_45.txt",
+        "cefr_level": "B1",
+        "topic": "places",
+        "keywords": ["hotel", "ice", "rooms", "winter", "Jukkasjarvi"]
+    },
+    {
+        "filename": "B1_Reading_46.txt",
+        "cefr_level": "B1",
+        "topic": "writing",
+        "keywords": ["story", "competition", "judges", "popular", "advice"]
+    },
+    {
+        "filename": "B1_Reading_47.txt",
+        "cefr_level": "B1",
+        "topic": "education",
+        "keywords": ["university", "student", "lectures", "study", "qualification"]
+    },
+    {
+        "filename": "B1_Reading_48.txt",
+        "cefr_level": "B1",
+        "topic": "jobs",
+        "keywords": ["mechanic", "Ford", "car", "company", "work"]
+    },
+    {
+        "filename": "B1_Reading_49.txt",
+        "cefr_level": "B1",
+        "topic": "travel",
+        "keywords": ["Ghan", "train", "Australia", "journey", "passengers"]
+    },
+    {
+        "filename": "B1_Reading_50.txt",
+        "cefr_level": "B1",
+        "topic": "shopping",
+        "keywords": ["shop", "furniture", "crowd", "customers", "Homestyle"]
+    },
+      {
+        "filename": "B1_Reading_51.txt",
+        "cefr_level": "B1",
+        "topic": "places",
+        "keywords": ["Eden", "Project", "biospheres", "plants", "climate"]
+    },
+    {
+        "filename": "B1_Reading_52.txt",
+        "cefr_level": "B1",
+        "topic": "news",
+        "keywords": ["agency", "members", "journalists", "training", "website"]
+    },
+    {
+        "filename": "B1_Reading_53.txt",
+        "cefr_level": "B1",
+        "topic": "dance",
+        "keywords": ["ballet", "school", "Russia", "student", "classes"]
+    },
+    {
+        "filename": "B1_Reading_54.txt",
+        "cefr_level": "B1",
+        "topic": "environment",
+        "keywords": ["desert", "rain", "water", "channels", "Morocco"]
+    },
+    {
+        "filename": "B1_Reading_55.txt",
+        "cefr_level": "B1",
+        "topic": "hotels",
+        "keywords": ["ICEHOTEL", "winter", "Sweden", "rooms", "temperature"]
+    },
+    {
+        "filename": "B1_Reading_56.txt",
+        "cefr_level": "B1",
+        "topic": "music",
+        "keywords": ["Moonshine", "band", "music", "songs", "CD"]
+    },
+    {
+        "filename": "B1_Reading_57.txt",
+        "cefr_level": "B1",
+        "topic": "places",
+        "keywords": ["Skywalk", "Canyon", "view", "platform", "tourists"]
+    },
+    {
+        "filename": "B1_Reading_58.txt",
+        "cefr_level": "B1",
+        "topic": "school",
+        "keywords": ["school", "building", "classrooms", "teachers", "students"]
+    },
+    {
+        "filename": "B1_Reading_59.txt",
+        "cefr_level": "B1",
+        "topic": "music",
+        "keywords": ["jazz", "band", "music", "competition", "school"]
+    },
+    {
+        "filename": "B1_Reading_60.txt",
+        "cefr_level": "B1",
+        "topic": "animals",
+        "keywords": ["sharks", "ocean", "water", "dangerous", "creatures"]
+    }
+]
